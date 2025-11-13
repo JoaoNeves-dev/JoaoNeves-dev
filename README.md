@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-Desenvolvedor Front-End<br>-Cursando na Incode Tech School</p>
+<p align="left">-Desenvolvedor Front-End<br>-Foco em HTML, CSS, JS e React</p>
 
 ###
 
@@ -20,6 +20,10 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
 ###
