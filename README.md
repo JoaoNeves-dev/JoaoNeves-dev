@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">Redes Sociais:</h2>
+<h2 align="left">Onde se conectar comigo?</h2>
 
 ###
 
