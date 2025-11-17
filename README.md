@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-Desenvolvedor Front-End<br>-Foco em HTML, CSS, JS e React</p>
+<p align="left">-Desenvolvedor Front-end<br>-Foco em HTML, CSS, JS e React</p>
 
 ###
 
