@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor focado no front-end<br>- Apaixonado por tecnologia<br>-  " Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão." - Rafael Lain</p>
+<p align="left">- Desenvolvedor focado no front-end.<br>- Apaixonado por tecnologia.<br>-  " Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão." - Rafael Lain</p>
 
 ###
 
