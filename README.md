@@ -1,86 +1,55 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+# 👋 Olá, eu sou o João Neves
 
-###
+- 🎓 Estudante de programação em constante evolução
+- 💡 Curioso por tecnologia, interfaces bem pensadas e código que faz sentido
+- 🚀 Contruindo hoje as bases para criar as soluções de amanhã
 
-<h1 align="center">Olá, Mundo!👋 <br>me chamo João Neves</h1>
+---
 
-###
-
-<h2 align="left">Sobre mim:</h2>
-
-###
-
-<p align="left">- Desenvolvedor focado no front-end<br>- Apaixonado por tecnologia<br>-  " Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão." - Rafael Lain</p>
-
-###
-
-<h2 align="left">Techs e ferramentas:</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h2 align="left">Status:</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoNeves-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoNeves-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoNeves-dev&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Onde se conectar comigo ?</h2>
-
-###
-
-<div align="left">
+# 📫 Onde me encontrar?
+<p align="left">
   <a href="https://www.linkedin.com/in/joaonevesdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:joaocardev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:joaocardev@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<h2 align="center">✨Obrigado pela visita!</h2>
+# 🧠 Sobre mim
 
-###
+Sou apaixonado por aprender como a tecnologia funciona. Atualmente estudo desenvolvimento web, focando em criar experiências modernas, responsivas e organizadas.
 
-<p align="center">Fique à vontade para explorar meus repositórios e conectar comigo.</p>
+Gosto de transformar ideias em interfaces reais e acredito que código limpo é uma forma de respeito com o futuro eu (e com quem for ler depois).
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/JoaoNeves-dev/JoaoNeves-dev/output/snake.svg" alt="Snake animation" />
+# Tecnologias que estou estudando/estudarei
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+---
 
-###
+## 📊 Github Stats
 
-###
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoNeves-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNeves-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Objetivo
+
+Evoluir constantemente como desenvolvedor, criar projetos sólidos e participar de soluções que realmente façam a diferença no dia a dia das pessoas
+
+---
+✨*"Aprender a programar é ensinar o computador a pensar junto com você."*
