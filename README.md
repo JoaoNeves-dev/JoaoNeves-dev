@@ -1,55 +1,46 @@
-# 👋 Olá, eu sou o João Neves
+# Olá, eu sou o João Neves! 👋 
 
-- 🎓 Estudante de programação em constante evolução
-- 💡 Curioso por tecnologia, interfaces bem pensadas e código que faz sentido
-- 🚀 Contruindo hoje as bases para criar as soluções de amanhã
+### ⚡ "O limite não é o céu,é o meu código."
+
+<div>
+  <img src="https://media.tenor.com/V-HpxdEazJMAAAAM/moon-purple.gif" width="950" alt="Anime Banner">
+</div>
 
 ---
 
-# 📫 Onde me encontrar?
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaonevesdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+## Sobre mim 🚀
+- 🎓 Estudante de programação focado em construir coisas incríveis na web.
+- 💡 Atualmente estudando a área do **front-end**.
+- 🏯 apaixonado por cultura japonesa e games.
+- 🎯 Objetivo: me tornar um dev full-stack.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+### 💻 no meu arsenal:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🔨 Ferramentas que utilizo:
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏮 Além do Código
+* 🎮 **Gaming:** Curto fps e mundo aberto.
+* ⛩️ **Anime do momento:** The Fragrant Flower Blooms with Dignity.
+
+---
+
+##  🤝Vamos nos conectar?
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaonevesdev/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:joaocardev@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:"joaocardev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</p>
-
----
-
-# 🧠 Sobre mim
-
-Sou apaixonado por aprender como a tecnologia funciona. Atualmente estudo desenvolvimento web, focando em criar experiências modernas, responsivas e organizadas.
-
-Gosto de transformar ideias em interfaces reais e acredito que código limpo é uma forma de respeito com o futuro eu (e com quem for ler depois).
-
----
-
-# Tecnologias que estou estudando/estudarei
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 Github Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoNeves-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNeves-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 Objetivo
-
-Evoluir constantemente como desenvolvedor, criar projetos sólidos e participar de soluções que realmente façam a diferença no dia a dia das pessoas
-
----
-✨*"Aprender a programar é ensinar o computador a pensar junto com você."*
+</div>
