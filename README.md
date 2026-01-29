@@ -11,7 +11,7 @@
 ## Sobre mim 🚀
 - 🎓 Estudante de programação focado em construir coisas incríveis na web.
 - 💡 Atualmente estudando a área do **front-end**.
-- 🏯 apaixonado por cultura japonesa e games.
+- 🏯 Apaixonado por cultura japonesa e games.
 - 🎯 Objetivo: me tornar um dev full-stack.
 
 ---
