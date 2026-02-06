@@ -31,7 +31,7 @@
 
 ## 🏮 Além do Código
 * 🎮 **Gaming:** Curto fps e mundo aberto.
-* ⛩️ **Anime do momento:** The Fragrant Flower Blooms with Dignity.
+* ⛩️ **Anime/Manga do momento:** Jujutsu Kaisen Modulo
 
 ---
 
